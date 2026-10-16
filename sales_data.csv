@@ -1,0 +1,17 @@
+date,region,product,units_sold,unit_price
+2026-09-01,North,Notebook,12,50
+2026-09-01,South,Pen,30,10
+2026-09-02,East,Notebook,8,50
+2026-09-02,West,Marker,15,20
+2026-09-03,North,Pen,25,10
+2026-09-03,South,Marker,10,20
+2026-09-04,East,Pen,18,10
+2026-09-04,West,Notebook,9,50
+2026-09-05,North,Marker,14,20
+2026-09-05,South,Notebook,11,50
+2026-09-06,East,Marker,16,20
+2026-09-06,West,Pen,22,10
+2026-09-07,North,Notebook,10,50
+2026-09-07,South,Pen,28,10
+2026-09-08,East,Notebook,7,50
+2026-09-08,West,Marker,12,20
